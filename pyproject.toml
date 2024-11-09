@@ -27,7 +27,7 @@ rapidfuzz = "3.9.6"
 regex = "2024.7.24"
 sentry-sdk = "2.13.0"
 tldextract = "5.1.2"
-pydantic = "2.6.4"
+pydantic = "2.9.2"
 pydantic-settings = "2.2.1"
 
 [tool.poetry.dev-dependencies]
